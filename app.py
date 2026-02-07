@@ -20,7 +20,7 @@ import html
 BOT_TOKEN = "8486328458:AAHR-7XmPq-2p7HlmEsDHCad-bmr0CG7jDE"
 ADMIN_IDS = [8291098446, 7265489223]
 CHANNEL_URL = "https://t.me/ZeroCyphh"
-CHANNEL_ID = "@zerocyph"
+CHANNEL_ID = "@ZeroCyphh"
 MIN_GROUP_MEMBERS = 25
 DAILY_LIMIT = 100
 SUPER_GROUP_IDS = []  # Official group that doesn't require verification
